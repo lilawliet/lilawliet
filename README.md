@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lilawliet</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilawliet" alt="lilawliet" /></a> </p>
 
 - 🌱 I’m currently learning **Mongodb, Nodejs, Nextjs, (Tensorflow maybe...)**
 
 - 💬 Ask me about **js & vue3 & react & react-native,**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
