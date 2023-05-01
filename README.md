@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Mongodb, Nodejs, Nextjs, (Tensorflow maybe...)**
 
-- 💬 Ask me about **js & vue3 & react & react-native,**
+- 💬 Ask me about **js & vue3 & react & react-native & python,**
 <p align="left">
 </p>
 
