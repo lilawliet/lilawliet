@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lilawliet</h1>
 
-- 🌱 I’m currently learning **Uni-App, Mongodb, Nextjs, (Tensorflow maybe...)**
+- 🌱 I’m currently learning **Nodejs, Uni-App, Nextjs, Mongodb, (Tensorflow maybe...)**
 
 - 💬 Ask me about **js & vue3 & react & react-native & python,**
 <p align="left">
